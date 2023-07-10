@@ -1,4 +1,4 @@
-# E-Library
+# BookHive
 
 ## Installation
 To use this repository
